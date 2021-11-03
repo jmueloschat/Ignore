@@ -1,4 +1,7 @@
 #java
-
 *.jar
 *.xml
+
+#folder
+node_modules/
+
